@@ -18,10 +18,6 @@ A tic-tac-toe game application where each player aims to create a sequence of th
 
 ![Screenshot 4](/Screenshot_20221114_232934.png)
 
-![Screenshot 5](/WhatsApp Image 2022-11-14 at 23.33.19.jpg)
-
-![Screenshot 6](/WhatsApp Image 2022-11-14 at 23.33.20.jpg)
-
 ## Notes
 
 HAVE A GOOD DAY :D
